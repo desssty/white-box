@@ -1,0 +1,20 @@
+в файл ты пишешь следующее:
+```bash
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кеши Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Логи
+*.log
+
+# Настройки IDE (опционально, но удобно)
+.vscode/
+.idea/
+
+# Кеш pytest
+.pytest_cache/
